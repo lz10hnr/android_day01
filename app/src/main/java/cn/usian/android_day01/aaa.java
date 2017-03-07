@@ -8,6 +8,6 @@ import android.util.Log;
 public class aaa {
 
     public void aaa(){
-        Log.i("abc","张三。。。");
+        Log.i("abc","张三。。。李四");
     }
 }
